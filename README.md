@@ -7,6 +7,10 @@
 
 **SmartJob Tracker** is a premium, high-performance job application tracking system designed for modern job seekers. Built with React and Firebase, it combines elegant aesthetics with powerful analytics to help you land your dream role.
 
+**Live Deployment Link -**   [Job Tracker Dashboard](https://sst-webdev-101-t3-p2.vercel.app/)
+
+<br/>
+
 ![Banner](./banner.png)
 
 ## ✨ Key Features
